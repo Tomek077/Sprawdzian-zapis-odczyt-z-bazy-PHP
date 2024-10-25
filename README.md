@@ -1,8 +1,5 @@
 **Sprawdzian z podstaw PHP i MySQL**
 
-**Imię i nazwisko:____________________________ Data:___________**
-
----
 
 ### **Zadanie 1: Tworzenie bazy danych (20 punktów)**
 
